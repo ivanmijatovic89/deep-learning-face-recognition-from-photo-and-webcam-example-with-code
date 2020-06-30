@@ -11,7 +11,7 @@ python3  face_recognition_knn.py
 ```
 Read blog post
 
-[https://ivanmijatovic.com/deep-learning-face-recognition-from-photo-with-a-code](https://ivanmijatovic.com/deep-learning-face-recognition-from-photo-with-a-code)
+[https://ivanmijatovic.com/deep-learning-face-recognition-from-photo-with-a-code-example](https://ivanmijatovic.com/deep-learning-face-recognition-from-photo-with-a-code-example)
 
 
 ## 2. Webcam example
@@ -24,7 +24,7 @@ python3 facerec_from_webcam_faster.py
 
 Read blog post
 
-[https://ivanmijatovic.com/deep-learning-face-recognition-from-photo-with-a-code](https://ivanmijatovic.com/deep-learning-face-recognition-from-photo-with-a-code)
+[https://ivanmijatovic.com/deep-learning-face-recognition-from-live-webcam-with-a-code-example](https://ivanmijatovic.com/deep-learning-face-recognition-from-live-webcam-with-a-code-example)
 
 
 
