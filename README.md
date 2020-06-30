@@ -3,6 +3,7 @@
 In this example we will we will train our model to recognize 2 persons from images  using a trained classifier model
 
 Read blog post
+
 [https://ivanmijatovic.com/deep-learning-face-recognition-from-photo-with-a-code](https://ivanmijatovic.com/deep-learning-face-recognition-from-photo-with-a-code)
 
 ## 1. Face Recognition from PHOTO
